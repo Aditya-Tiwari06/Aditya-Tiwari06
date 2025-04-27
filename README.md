@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-Tiwari06
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI, DS & ML
 - 🌱 I’m currently learning AI&DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
